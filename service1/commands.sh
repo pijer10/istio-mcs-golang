@@ -1,0 +1,1 @@
+docker build -t micros1:1.0 .
